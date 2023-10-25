@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "ZippyAI (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "ZippyAI (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
